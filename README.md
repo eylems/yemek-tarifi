@@ -13,13 +13,13 @@ Sayfa içi bağlantılar (#id kullanımı)
 
 Salçalı makarna için malzeme listesi (<ul>)
 
-Yapım aşamaları (<ol> ve görsellerle desteklenmiş adımlar)
+Yapım aşamaları (ve görsellerle desteklenmiş adımlar)
 
 Tarif önerileri ve püf noktaları
 
 Harici bir tarif sitesine gömülü iframe
 
-İçecek tanımları (<dl>)
+İçecek tanımları
 
 Kişisel bilgiler içeren tablo
 
