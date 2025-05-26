@@ -11,7 +11,7 @@ Ana başlık ve açıklayıcı metin
 
 Sayfa içi bağlantılar (#id kullanımı)
 
-Salçalı makarna için malzeme listesi (<ul>)
+Salçalı makarna için malzeme listesi
 
 Yapım aşamaları (ve görsellerle desteklenmiş adımlar)
 
